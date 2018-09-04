@@ -10,7 +10,13 @@ AMP helps governments and development partners gather, access, and monitor infor
 
 
 ## Arquitecture
-In the following document you can find a detail explanation of AMP architecture. 
+AMP is a web based java  application. [In the following document you can find a detail explanation of AMP architecture](../blob/master/doc/AMP_3_Technical_Documentation.pdf)
+We have build a comprehensive installation guid in order to properly assist in the installation of the software. [LINK TO THE GUIDE]
+
+## Contact information
+
+[For any comments, please conctact us](mailto:info@developmentgateway.org "Development Gateway's Email")
+ 
 
 
 
