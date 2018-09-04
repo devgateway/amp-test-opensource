@@ -11,7 +11,7 @@ AMP helps governments and development partners gather, access, and monitor infor
 
 ## Arqchitecture
 AMP is a web based java  application. [In this document you can find a detail explanation of AMP architecture](../master/doc/AMP_3_Technical_Documentation.pdf).
-We have built a comprehensive installation guide in order to properly assist in the installation of the software. [LINK TO THE GUIDE](../master/doc/AMP_Installation_Guide.pdf).
+We have built a comprehensive [installation guide](../master/doc/AMP_Installation_Guide.pdf). in order to properly assist in the installation of the software. 
 
 ## Contact information
 
